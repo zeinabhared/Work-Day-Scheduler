@@ -20,4 +20,4 @@ The following screenshots shows the application functionality:
 
 ![Screenshot 2](./assets/images/screenshot2.png)
 
-## Link to deployed application: https://zeinabhared.github.io/work-day-scheduler/
+## Link to deployed application: https://zeinabhared.github.io/Work-Day-Scheduler/
